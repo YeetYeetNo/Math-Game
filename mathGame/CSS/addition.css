@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css?family=Work+Sans:400,600');
+body {
+	margin: 0; 
+	background: #293462 ;
+	font-family: 'Work Sans', sans-serif;
+	font-weight: 800;
+    text-align: center;
+}
+
+#type {
+    padding-top: 5em;
+    padding-bottom: 5em;
+}
+
+input {
+    font-size: 30px;
+    background-color: white; 
+}
+
+#typee {
+    padding-top: 1em;
+}
+
+.title {
+    font-size: 5em;
+}
+
+.titlediv {
+    color: #F24C4C;
+}
+
+button {
+    font-size: 30px;
+    border-radius: 10px;
+    background-color: #F7D716;
+}
+
+button:active {
+    background-color: #EC9B3B;
+    box-shadow: 0 3px #666;
+    transform: translateY(3px);
+  }
+
+button:hover {
+    background-color: #EC9B3B;
+}
+
+.counter {
+    color: #F24C4C;
+}
+
+.link {
+   padding-top: 50px;
+}
+
+.linkText { 
+    padding-top: 50px;
+    color: #F7D716;
+}
+
+a:hover {
+    color: #EC9B3B;
+}
+
+h5 {
+    padding-top: 50px;
+    padding-right: 1500px;
+    color: #F24C4C;
+  }
